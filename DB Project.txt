@@ -1,0 +1,4 @@
+http://localhost/art gallery/insert.php
+http://localhost/art gallery/delete.php
+http://localhost/art gallery/update.php
+http://localhost/art gallery/display.php
